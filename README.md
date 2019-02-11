@@ -1,4 +1,4 @@
-# Local Development API Server
+# Udacity API Server
 ## Usage
 #### Get Restaurants
 ```
